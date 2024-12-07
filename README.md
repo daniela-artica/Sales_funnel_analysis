@@ -5,7 +5,7 @@ This project focuses on understanding user behavior within the mobile applicatio
 
 Key questions include:
 
-    - How many users reach the purchase stage?
-    - At which stages do users tend to drop off?
-    - Are there specific stages that pose significant barriers?
-    - Which set of fonts provide better conversion rates across different stages? 
+- How many users reach the purchase stage?
+- At which stages do users tend to drop off?
+- Are there specific stages that pose significant barriers?
+- Which set of fonts provide better conversion rates across different stages? 
