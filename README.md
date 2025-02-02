@@ -15,6 +15,8 @@ Key questions include:
 ## Executive summary
 **Sales funnel analysis**
 - The analysis reveals that only 18.4% of users complete the entire process up to payment. The stage where most users drop off is when they are shown offers, with only 61% of initial users who viewed the homepage reaching this stage. However, other stages of the funnel show strong conversion rates, ranging between 81% and 95%.
+![Description](images/funnel.png)
+
 - On average, each user goes through 3 different events and the most popular stage is the main screen visualization.
 - Users are more active on the app between 9:00 AM and 4:00 PM. Specifically, there is a peak in activity around 3:00 PM, indicating that this is when the highest number of events take place.
 
