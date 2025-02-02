@@ -12,6 +12,11 @@ Key questions include:
 - Are there specific stages that pose significant barriers?
 - Which set of fonts provide better conversion rates across different stages?
 
+## Used tools
+- **Programming language:**: Python
+- **Development environment:** Jupyter Notebook
+- **Libraries:** Pandas, Numpy, Scipy, Matplotlib, Math, Plotly
+
 ## Executive summary
 **Sales funnel analysis**
 - The analysis reveals that only 18.4% of users complete the entire process up to payment. The stage where most users drop off is when they are shown offers, with only 61% of initial users who viewed the homepage reaching this stage. However, other stages of the funnel show strong conversion rates, ranging between 81% and 95%.
