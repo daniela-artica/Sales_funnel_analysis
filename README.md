@@ -19,7 +19,7 @@ Key questions include:
 
 - On average, each user goes through 3 different events and the most popular stage is the main screen visualization.
 - Users are more active on the app between 9:00 AM and 4:00 PM. Specifically, there is a peak in activity around 3:00 PM, indicating that this is when the highest number of events take place.
-![Description](distribucion_eventos_hora.png)
+![Description](images/distribucion_eventos_hora.png)
 
 **A/A/B test analysis**
 - The conversion proportions for each event were compared between the test group and each control group, as well as with the combined groups. The analysis revealed no significant differences in the proportion comparisons for any event.
